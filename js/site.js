@@ -1,7 +1,6 @@
 // Start / Controller function
 //
 // Get the values from the Page
-
 function getValues() {
     //get values from the page
     let startValue = document.getElementById("startValue").value;
